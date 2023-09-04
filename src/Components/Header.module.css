@@ -1,0 +1,290 @@
+.header{
+    position: absolute;
+    width: 566.4px;
+    height: 400.31px;
+    left: 141px;
+    top: 30.93px;
+    background-color: #000000;
+    }
+    
+.logo {
+    position: absolute;
+    width: 76px;
+    height: 23px;
+    left: 141px;
+    top: 32px;
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22.976px;
+    line-height: 100%;
+    color: #484848;
+    }
+    
+    .nav-elements{
+    position: absolute;
+    width: 337.57px;
+    height: 24.74px;
+    left: 369.38px;
+    top: 30.93px;
+    }
+    
+    
+    
+    .nav-bar {
+    position: absolute;
+    width: 565.95px;
+    height: 24.74px;
+    left: 141px;
+    top: 30.93px;
+    }
+    
+    .background{
+      
+    position: absolute;
+    width: 67.16px;
+    height: 24.74px;
+    left: 639.79px;
+    top: 30.93px;
+    
+    background: #000000;
+    box-shadow: 0px 8.83691px 15.4646px rgba(0, 0, 0, 0.15);
+    border-radius: 4.41846px;
+    }
+    
+    .sign-in{
+    position: absolute;
+    width: 24px;
+    height: 11px;
+    left: 590.75px;
+    top: 38.44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.06953px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    color: #484848;
+    }
+    
+    .home{
+    position: absolute;
+    width: 22px;
+    height: 11px;
+    left: 369.38px;
+    top: 38.44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.06953px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    color: #484848;
+    
+    }
+    
+    .deals{
+    position: absolute;
+    width: 20px;
+    height: 11px;
+    left: 416.22px;
+    top: 38.44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.06953px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    color: #484848;
+    
+    }
+    
+    .new-arrivals{
+    position: absolute;
+    width: 43px;
+    height: 11px;
+    left: 461.73px;
+    top: 38.44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.06953px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    color: #484848;
+    
+    }
+    
+    
+    .packages{
+    position: absolute;
+    width: 35px;
+    height: 11px;
+    left: 530.66px;
+    top: 38.44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.06953px;
+    line-height: 11px;
+    
+    color: #484848;
+    
+    }
+    
+    .sign-up{
+    position: absolute;
+    width: 27px;
+    height: 7px;
+    left: 659.68px;
+    top: 39.77px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.06953px;
+    line-height: 100%;
+    /* identical to box height, or 7px */
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    
+    
+    
+    .text-button{
+    
+    position: absolute;
+    width: 91.46px;
+    height: 24.74px;
+    left: 377.78px;
+    top: 323.87px;
+    
+    background: #000000;
+    box-shadow: 0px 8.83691px 15.4646px rgba(0, 0, 0, 0.15);
+    border-radius: 4.41846px;
+    
+    }
+    
+    .text{
+      position: absolute;
+    width: 176.33px;
+    height: 169.23px;
+    left: 336.24px;
+    top: 179.39px;
+    
+    }
+    
+    .shop-now{
+    position: absolute;
+    width: 39px;
+    height: 7px;
+    left: 403.85px;
+    top: 332.71px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 7.06953px;
+    line-height: 100%;
+    /* identical to box height, or 7px */
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+
+.scroll{
+position: absolute;
+width: 25.19px;
+height: 25.19px;
+left: 805.48px;
+top: 406.06px;
+}
+
+.scroll-background{
+box-sizing: border-box;
+
+position: absolute;
+width: 25.19px;
+height: 25.19px;
+left: 805.48px;
+top: 406.06px;
+
+border: 0.441846px solid #000000;
+border-radius: 22.0923px;
+}
+
+.vector{
+position: absolute;
+width: 7.51px;
+height: 11.49px;
+left: 821.83px;
+top: 424.61px;
+
+background: #000000;
+transform: rotate(180deg);
+}
+
+
+/* 
+.images {
+position: absolute;
+width: 188.23px;
+height: 66.28px;
+left: 330.06px;
+top: 364.96px;
+}
+
+
+.image {
+position: absolute;
+width: 188.23px;
+height: 66.28px;
+left: 330.06px;
+top: 364.96px;
+
+background: url(full-length-two-caucasian-young-elegant-women-evening-dress-raise-their-leg-unison-pink-background-beauty-emotions-people-concept);
+border-radius: 4.41846px;
+}
+
+.image{
+
+position: absolute;
+width: 188.23px;
+height: 66.28px;
+left: 330.06px;
+top: 364.96px;
+
+border-radius: 4.41846px;
+}
+
+.image{
+
+position: absolute;
+width: 173.2px;
+height: 334.04px;
+left: 141.39px;
+top: 97.21px;
+}
+
+
+.bg{
+
+position: absolute;
+width: 173.2px;
+height: 334.04px;
+left: 141.39px;
+top: 97.21px;
+
+background: #E0E0E0;
+border-radius: 4.41846px;
+} */
